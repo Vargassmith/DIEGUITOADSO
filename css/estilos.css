@@ -1,0 +1,179 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left: 5%;
+    font-weight: bold; 
+}
+
+h1 {
+    color: black
+    font-size
+}
+
+ul li {
+    display: inline-block;
+    padding: 0px 20px;
+
+
+}
+
+a {
+    color: rgb(7, 7, 7);
+    text-decoration: none;
+}
+
+#styles {
+    text-align: left;
+     
+    
+}
+
+
+#texto{
+    text-align: center;
+    text-decoration: none;
+     
+
+}
+
+
+
+
+
+#franja{
+    width: 100%;
+    background-color: orange;
+    height: 4em;
+}
+
+ 
+ 
+
+
+.texto {
+    display: inline-block;
+    width: 100%;
+    
+
+}
+
+.col1 {
+    margin: 2em;
+    width: 40%;
+    font-size: 1em;
+}
+
+.col2 {
+    margin: 2em;
+    width: 40%;
+}
+
+.texto div {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+
+.logos {
+    vertical-align: top;
+    width: 28%;
+    text-align: center;
+    margin: 0em 5em;
+    
+}
+
+.blacksquare {
+    width: 3.5%;
+    vertical-align: top;
+    text-align: left;
+    margin: -3em 0em 0em -14em;
+
+
+}
+
+.boton{
+    margin: 1.3em 0em 0em 0em;
+    background-color: orange;
+    color: white;
+    font-size: 1em;
+    border-color: orange;
+}
+
+.gato {
+    width: 40%;
+    margin: 0em 4em;
+}
+
+.perro {
+    margin: 1em 2.5em;
+    font-size: 1.5em;
+}
+
+span {
+    color: orange;
+
+}
+
+
+#tresparte .loro {
+    width: 40%;
+    margin-left: 2em;
+    font-size: 2em;
+    vertical-align: top;
+}
+
+#tresparte .toro {
+    width: 40%;
+    margin-left: 8em;
+    margin-top: 2em;
+}
+
+.delfin {
+    width: 30%;
+}
+
+.unidad {
+    width: 30%;
+    margin-left: 15em;
+}
+
+.diferente div {
+    display: inline-block;
+    text-align: center;
+    
+
+}
+
+.fat {
+    width: 40%;
+    
+}
+
+.fatter{
+    width: 155%;
+    margin-left: -4em;
+
+    
+
+}
+
+.unidad img {
+    width: 30%;
+
+    
+}
+
+.diferente {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+}
